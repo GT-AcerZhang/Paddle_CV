@@ -1,10 +1,13 @@
-# Paddle_CV
+### Paddle_CV
 该代码仓库致力于使用`paddlepaddle`实现一些CV的常用算法
 
 
 
-
-
+### 环境
+```
+python3.6
+paddlepaddle1.7
+```
 
 
 
